@@ -16,6 +16,8 @@ Python - Task Manager
    ```
 3. Open Terminal and navigate to project path
 4. Type command ``` python manage.py runserver```
-5. In the localhost URL tab inside the browser, append "/tasks" and press ENTER. <br/>
+5. The Terminal will give a URL, copy and paste it in browser to open app. <br/>
+For example: ```Starting development server at http://127.0.0.1:8000/ ```
+6. In the localhost URL tab inside the browser, append "/tasks" and press ENTER. <br/>
    For example:
    ``` http://127.0.0.1:8000/tasks/ ```
